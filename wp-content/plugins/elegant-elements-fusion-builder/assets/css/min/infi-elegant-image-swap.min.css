@@ -1,0 +1,1 @@
+.elegant-image-swap{position:relative;max-width:100%}.elegant-image-swap img{transition:all .25s ease-in-out}.elegant-image-swap .elegant-image-swap-hover{position:absolute;top:0;left:0;opacity:0}.elegant-image-swap:hover .elegant-image-swap-hover{opacity:1}.elegant-image-swap:hover .elegant-image-swap-main{opacity:0}

@@ -1,0 +1,626 @@
+{
+  "Service content block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/service-content-block\/",
+    "template_id": 2048,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/service-content-block.jpg?fit=350%2C115&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/service-content-block@2x.jpg"
+  },
+  "Creative branding content block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/creative-branding-content-block\/",
+    "template_id": 2044,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/creative-branding-content-block.jpg?fit=350%2C168&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/creative-branding-content-block@2x.jpg"
+  },
+  "Creative design content block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/creative-design-content-block\/",
+    "template_id": 2039,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/creative-design-content-block.jpg?fit=350%2C155&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/06\/creative-design-content-block@2x.jpg"
+  },
+  "Event Hero Section": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/event-hero-section\/",
+    "template_id": 484,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/event-hero-section.png?fit=350%2C190&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/event-hero-section@2x.png"
+  },
+  "We Are InfiWebs": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/we-are-infiwebs\/",
+    "template_id": 476,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/we-are-infiwebs.png?fit=350%2C213&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/we-are-infiwebs@2x.png"
+  },
+  "SEO Hero Section": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/seo-hero-section\/",
+    "template_id": 471,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/seo-hero-section.png?fit=350%2C171&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/seo-hero-section@2x.png"
+  },
+  "About Product": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/about-product\/",
+    "template_id": 467,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/about-product.png?fit=350%2C153&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/about-product@2x.png"
+  },
+  "Our Collection": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-collection\/",
+    "template_id": 460,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/our-collection.png?fit=350%2C220&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/our-collection@2x.png"
+  },
+  "Reviews": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/reviews\/",
+    "template_id": 457,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/reviews.png?fit=350%2C142&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/reviews@2x.png"
+  },
+  "Get the app": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/get-the-app\/",
+    "template_id": 454,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/get-the-app.png?fit=350%2C204&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/get-the-app@2x.png"
+  },
+  "App CTA": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/app-cta\/",
+    "template_id": 451,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-cta.png?fit=350%2C79&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-cta@2x.png"
+  },
+  "Macbook app features": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/macbook-app-features\/",
+    "template_id": 447,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/macbook-app-features.png?fit=350%2C208&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/macbook-app-features@2x.png"
+  },
+  "Download App": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/download-app\/",
+    "template_id": 443,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/download-app.png?fit=350%2C220&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/download-app@2x.png"
+  },
+  "App Screenshots": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/app-screenshots\/",
+    "template_id": 433,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-screenshots.png?fit=350%2C183&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-screenshots@2x.png"
+  },
+  "App Features": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/app-features\/",
+    "template_id": 429,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-features.png?fit=350%2C275&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/app-features@2x.png"
+  },
+  "Our Special Offers": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-special-offers\/",
+    "template_id": 426,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/our-special-offers.png?fit=350%2C180&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/our-special-offers@2x.png"
+  },
+  "About us section": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/about-us-section\/",
+    "template_id": 422,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/about-us-section.png?fit=350%2C175&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/about-us-section@2x.png"
+  },
+  "Restaurant menu": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/restaurant-menu\/",
+    "template_id": 418,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/restaurant-menu.png?fit=350%2C183&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/restaurant-menu@2x.png"
+  },
+  "Client testimonial": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/client-testimonial\/",
+    "template_id": 415,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/client-testimonial.png?fit=350%2C122&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/client-testimonial@2x.png"
+  },
+  "Contact info block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/contact-info-block\/",
+    "template_id": 412,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/contact-info-block.png?fit=350%2C40&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/contact-info-block@2x.png"
+  },
+  "Custom Pricing Table": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/custom-pricing-table\/",
+    "template_id": 409,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/custom-pricing-table.png?fit=350%2C205&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/custom-pricing-table@2x.png"
+  },
+  "Counter boxes content": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/counter-boxes-content\/",
+    "template_id": 405,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/counter-boxes-content.png?fit=350%2C130&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2020\/01\/counter-boxes-content@2x.png"
+  },
+  "Awards and recognition": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/awards-and-recognition\/",
+    "template_id": 402,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/awards-and-recognition.png?fit=350%2C183&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/awards-and-recognition@2x.png"
+  },
+  "Food items": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/food-items\/",
+    "template_id": 396,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/food-items.png?fit=350%2C199&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/food-items@2x.png"
+  },
+  "100s of courses": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/100s-of-courses\/",
+    "template_id": 387,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/100s-of-courses.png?fit=350%2C160&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/100s-of-courses@2x.png"
+  },
+  "Footer content 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/footer-content-1\/",
+    "template_id": 381,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/footer-content-1.png?fit=350%2C205&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/footer-content-1@2x.png"
+  },
+  "20% Off office desk": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/20-off-office-desk\/",
+    "template_id": 377,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/office-desk-offer.png?fit=350%2C186&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/office-desk-offer@2x.png"
+  },
+  "About our store": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/about-our-store\/",
+    "template_id": 373,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-our-store.png?fit=350%2C206&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-our-store@2x.png"
+  },
+  "Advanced Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/advanced-content-block\/",
+    "template_id": 370,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/advanced-content-block-1.png?fit=350%2C240&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/advanced-content-block-1@2x.png"
+  },
+  "Services": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/services\/",
+    "template_id": 366,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/services-we-offer.png?fit=350%2C151&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/services-we-offer@2x.png"
+  },
+  "What We Do": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/what-we-do\/",
+    "template_id": 287,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/what-we-do.png?fit=350%2C152&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/what-we-do@2x.png"
+  },
+  "Content box circle icon": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-box-circle-icon\/",
+    "template_id": 360,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-box-circle-icon.png?fit=350%2C139&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-box-circle-icon@2x.png"
+  },
+  "Get in touch": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/get-in-touch\/",
+    "template_id": 357,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/get-in-touch.png?fit=350%2C112&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/get-in-touch@2x.png"
+  },
+  "Everything you need": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/everything-you-need\/",
+    "template_id": 353,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/everything-you-need.png?fit=350%2C167&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/everything-you-need@2x.png"
+  },
+  "Hero Section - Bottom Content": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/hero-section-bottom-content\/",
+    "template_id": 345,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-bottom-content.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-bottom-content@2x.png"
+  },
+  "Meet Our Team": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/meet-our-team\/",
+    "template_id": 342,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/meet-our-team.png?fit=350%2C181&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/meet-our-team@2x.png"
+  },
+  "About Lawyer Justice": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/about-lawyer-justice\/",
+    "template_id": 339,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-lawyer-justice.png?fit=350%2C115&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-lawyer-justice@2x.png"
+  },
+  "Content Box Custom Icon Layout": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-box-custom-icon-layout\/",
+    "template_id": 336,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-box-custom-icon-shape.png?fit=350%2C172&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-box-custom-icon-shape@2x.png"
+  },
+  "Our Attorneys": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-attorneys\/",
+    "template_id": 333,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-attorneys.png?fit=350%2C175&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-attorneys@2x.png"
+  },
+  "Our Transport Services": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-transport-services\/",
+    "template_id": 323,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transport-services.png?fit=350%2C165&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transport-services@2x.png"
+  },
+  "Transports with Hero Section": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/transports-with-hero-section\/",
+    "template_id": 316,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transportation-banners.png?fit=350%2C240&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transportation-banners@2x.png"
+  },
+  "Call to Action 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/call-to-action-1\/",
+    "template_id": 313,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/social-cta.png?fit=350%2C34&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/social-cta@2x.png"
+  },
+  "Best Services": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/best-services\/",
+    "template_id": 307,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/best-services.png?fit=350%2C121&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/best-services@2x.png"
+  },
+  "Transportation You Love": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/transportation-you-love\/",
+    "template_id": 303,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transportation-you-love.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/transportation-you-love@2x.png"
+  },
+  "Contact With Us": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/contact-with-us\/",
+    "template_id": 300,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-us-1.png?fit=350%2C155&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-us-1@2x.png"
+  },
+  "Our Client Testimonials": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-client-testimonials\/",
+    "template_id": 297,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-client-testimonials.png?fit=350%2C108&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-client-testimonials@2x.png"
+  },
+  "How Can We Help": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/how-can-we-help\/",
+    "template_id": 291,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/how-can-we-help.png?fit=350%2C149&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/how-can-we-help@2x.png"
+  },
+  "Industries We Serve": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/industries-we-serve\/",
+    "template_id": 284,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/industries-we-serve.png?fit=350%2C160&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/industries-we-serve@2x.png"
+  },
+  "Hero Content Block 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/hero-content-block-2\/",
+    "template_id": 280,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-content-block-2.png?fit=350%2C177&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-content-block-2@2x.png"
+  },
+  "Hero Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/hero-content-block\/",
+    "template_id": 276,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-content-block.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-content-block@2x.png"
+  },
+  "Construction Services Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-services-block\/",
+    "template_id": 272,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-services-block-1.png?fit=350%2C140&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-services-block-1@2x.png"
+  },
+  "Construction - About Company": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-about-company\/",
+    "template_id": 268,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-about-company.png?fit=350%2C119&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-about-company@2x.png"
+  },
+  "Construction - Our Team": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-our-team\/",
+    "template_id": 261,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-our-team.png?fit=350%2C148&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-our-team@2x.png"
+  },
+  "Why Choose Us": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/why-choose-us\/",
+    "template_id": 258,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-why-choose-us-1.png?fit=350%2C131&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-why-choose-us-1@2x.png"
+  },
+  "Construction Services": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-services\/",
+    "template_id": 252,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-services-1.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-services-1@2x.png"
+  },
+  "Construction Stats": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-stats\/",
+    "template_id": 248,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-stats.png?fit=350%2C150&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-stats@2x.png"
+  },
+  "Construction Feature Blocks": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-feature-blocks\/",
+    "template_id": 241,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-feature-blocks-1.png?fit=350%2C98&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-feature-blocks-1@2x.png"
+  },
+  "Construction - Hero Container 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/construction-hero-container-1\/",
+    "template_id": 237,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-hero-section-1.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/construction-hero-section-1@2x.png"
+  },
+  "Features Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/features-content-block\/",
+    "template_id": 230,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-content-block-1.png?fit=350%2C186&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-content-block-1@2x.png"
+  },
+  "Who We Are - Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/who-we-are-content-block\/",
+    "template_id": 223,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/who-we-are-content-block-1.png?fit=350%2C197&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/who-we-are-content-block-1@2x.png"
+  },
+  "Our Services Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/our-services-content-block\/",
+    "template_id": 220,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-services-content-block-1.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/our-services-content-block-1@2x.png"
+  },
+  "Why Choose Us Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/why-choose-us-content-block\/",
+    "template_id": 216,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/why-choose-us-content-block-1.png?fit=350%2C133&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/why-choose-us-content-block-1@2x.png"
+  },
+  "Team Showcase 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/team-showcase-1\/",
+    "template_id": 209,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/team-showcase-1.png?fit=350%2C205&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/team-showcase-1@2x.png"
+  },
+  "Business Ideas - Accordion - Content": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/business-ideas-accordion-content\/",
+    "template_id": 205,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/business-ideas-accordion-content-1.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/business-ideas-accordion-content-1@2x.png"
+  },
+  "Contact info with form": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/contact-info-with-form\/",
+    "template_id": 202,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-form-1.png?fit=350%2C225&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-form-1@2x.png"
+  },
+  "Contact Block with Map": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/contact-block-with-map\/",
+    "template_id": 198,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-map-1.png?fit=350%2C182&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/contact-map-1@2x.png"
+  },
+  "Image + Content Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/image-content-block\/",
+    "template_id": 194,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-image-block-2.png?fit=350%2C130&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-image-block-2@2x.png"
+  },
+  "Content + Image Block": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-image-block\/",
+    "template_id": 190,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-image-block-1.png?fit=350%2C130&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-image-block-1@2x.png"
+  },
+  "Skills - Progressbar 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/skills-progressbar-1\/",
+    "template_id": 187,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/skills-progressbar-1.png?fit=350%2C103&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/skills-progressbar-1@2x.png"
+  },
+  "Testimonial Section": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/testimonial-section\/",
+    "template_id": 181,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/testimonials-1.png?fit=350%2C84&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/testimonials-1@2x.png"
+  },
+  "Content Block + Features": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-block-features\/",
+    "template_id": 178,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-features-block-1.png?fit=350%2C250&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-features-block-1@2x.png"
+  },
+  "Content Block 4": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-block-4\/",
+    "template_id": 175,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-4.png?fit=350%2C140&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-4@2x.png"
+  },
+  "Pricing Table 5": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/pricing-table-5\/",
+    "template_id": 170,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-5.png?fit=350%2C150&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-5@2x.png"
+  },
+  "Pricing Table 4": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/pricing-table-4\/",
+    "template_id": 167,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-4.png?fit=350%2C160&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-4@2x.png"
+  },
+  "Pricing Table 3": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/pricing-table-3\/",
+    "template_id": 164,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-3.png?fit=350%2C160&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-3@2x.png"
+  },
+  "Pricing Table 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/pricing-table-2\/",
+    "template_id": 158,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-2.png?fit=350%2C159&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-2@2x.png"
+  },
+  "Pricing Table 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/pricing-table-1\/",
+    "template_id": 152,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-1.png?fit=350%2C150&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/pricing-table-1@2x.png"
+  },
+  "Hero Section 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/hero-section-2\/",
+    "template_id": 149,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-2.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-2@2x.png"
+  },
+  "Hero Section 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/hero-section-1\/",
+    "template_id": 145,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-1.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/hero-section-1@2x.png"
+  },
+  "Content - Services Block 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-services-block-1\/",
+    "template_id": 141,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/services-block-1.png?fit=350%2C180&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/services-block-1@2x.png"
+  },
+  "Content - About Us 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-about-us-2\/",
+    "template_id": 136,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-us-2.png?fit=350%2C140&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-us-2@2x.png"
+  },
+  "Content - About Us 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-about-us-1\/",
+    "template_id": 133,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-us-1.png?fit=350%2C129&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/about-us-1@2x.png"
+  },
+  "Features + Content Boxes 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/features-content-boxes-2\/",
+    "template_id": 129,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-feature-boxes-2.png?fit=350%2C175&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-feature-boxes-2@2x.png"
+  },
+  "Content + Feature Boxes 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-feature-boxes-1\/",
+    "template_id": 122,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-feature-boxes-1.png?fit=350%2C127&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-feature-boxes-1@2x.png"
+  },
+  "Floating Content Boxes 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/floating-content-boxes-1\/",
+    "template_id": 118,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/floating-content-boxes-1.png?fit=350%2C175&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/floating-content-boxes-1@2x.png"
+  },
+  "Content Block 3": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-block-3\/",
+    "template_id": 114,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-3.png?fit=350%2C150&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-3@2x.png"
+  },
+  "Content Block 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-block-2\/",
+    "template_id": 110,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-2.png?fit=350%2C139&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-2@2x.png"
+  },
+  "Progress + Content Template": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/progress-content-template\/",
+    "template_id": 106,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/progress-content-template-1.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/progress-content-template-1@2x.png"
+  },
+  "Content Template 7": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-template-7\/",
+    "template_id": 102,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-7.png?fit=350%2C167&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-7@2x.png"
+  },
+  "App Features 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/app-features-1\/",
+    "template_id": 96,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/app-features-1.png?fit=350%2C168&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/app-features-1@2x.png"
+  },
+  "Content Template 6": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-template-6\/",
+    "template_id": 90,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-6.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-6@2x.png"
+  },
+  "Content Template 5": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-template-5\/",
+    "template_id": 87,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-5.png?fit=350%2C200&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-5@2x.png"
+  },
+  "Content Boxes 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-boxes-2\/",
+    "template_id": 84,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-boxes-2.png?fit=350%2C115&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-boxes-2@2x.png"
+  },
+  "Content Template 4": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-template-4\/",
+    "template_id": 80,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-4.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-template-4@2x.png"
+  },
+  "Carousel Content 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/carousel-content-2\/",
+    "template_id": 73,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/carousel-content-2.png?fit=350%2C154&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/carousel-content-2@2x.png"
+  },
+  "Content Block 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-block-1\/",
+    "template_id": 61,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-1.png?fit=350%2C178&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-block-1@2x.png"
+  },
+  "Content boxes 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-boxes-1\/",
+    "template_id": 51,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-boxes-1.png?fit=350%2C164&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-boxes-1@2x.png"
+  },
+  "Content 4": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-4\/",
+    "template_id": 44,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-4.png?fit=350%2C150&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-4@2x.png"
+  },
+  "Carousel Content 1": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/carousel-content-1\/",
+    "template_id": 37,
+    "preview_image": "https:\/\/i1.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/carousel-content-1.png?fit=350%2C229&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/carousel-content-1@2x.png"
+  },
+  "Content 3": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-3\/",
+    "template_id": 33,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-3.png?fit=350%2C169&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-3@2x.png"
+  },
+  "Content 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/content-2\/",
+    "template_id": 29,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-2.png?fit=350%2C130&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-2@2x.png"
+  },
+  "Template 3": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/template-3\/",
+    "template_id": 25,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-1.png?fit=350%2C169&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/content-1@2x.png"
+  },
+  "Template 2": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/template-2\/",
+    "template_id": 18,
+    "preview_image": "https:\/\/i0.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-2.png?fit=350%2C170&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-2@2x.png"
+  },
+  "Template 01": {
+    "template_url": "https:\/\/templates.fusionelegantelements.com\/template\/template-01\/",
+    "template_id": 15,
+    "preview_image": "https:\/\/i2.wp.com\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-1.png?fit=350%2C209&ssl=1",
+    "preview_image_retina": "https:\/\/templates.fusionelegantelements.com\/wp-content\/uploads\/2019\/12\/features-1@2x.png"
+  }
+}

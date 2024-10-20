@@ -1,0 +1,434 @@
+  **************************
+****   C H A N G E L O G  ****
+  **************************
+
+Version 3.6.7
+- Improvement: Avada 7.9.2 compatibility
+- Fix: FAQ rich snippet element PHP warning if no title is set
+- Fix: Container gradient background not respecting the gradient type property correctly
+- Fix: Instagram element causing the Live Editor stop working properly
+- Fix: Container background slider images shows duplicate images in backend editor setting
+
+Version 3.6.6
+- Improvement: Avada 7.9 compatibility
+- Improvement: Compatibility with PHP8.2
+- Improvement: Compatibility with WordPress 6.1.1
+- Improvement: Off-canvas element styling for backgrounds
+- Fix: Background slider not displaying on frontend without saving settings
+- Fix: PHP Warning on gradient heading element if the color is missing
+- Fix: Animated Dividers element styling in editor
+- Fix: List box element styling in live editor
+- Fix: Ribbon element styling
+- Fix: Testimonials element hover transition
+- Fix: Element level typography giving PHP Warning
+
+Version 3.6.5
+- Fix: Instagram API issue
+- Fix: PHP warning on PHP8.1 for Fonts display
+
+Version 3.6.4
+- Improvement: WordPress 6.1 compatibility
+
+Version 3.6.3
+- New: Option to display pointer title in hotspot element
+- New: Option to set pointer shape to circle and square
+- New: Option to set spacing between the pointer and title text
+- New: Option to disable tooltip
+- New: Option to disable pointer animation effect
+
+Version 3.6.4 - 14 July, 2022
+- Improvement: Avada 7.8 compatibility
+- Improvement: WordPress 6.0.1 compatibility
+- Fix: Container and column background settings errors on Avada 7.8
+
+
+Version 3.6.3 - 19 April, 2022
+- Improvement: Avada 7.7 compatibility
+- Improvement: WordPress 5.9.3 compatibility
+- Fix: JS error on Avada live editor for the image meta
+- Fix: Typography param conflicts with PHP 8.1
+
+Version 3.6.2 - 28 January, 2022
+- Improvement: Avada 7.6.x compatibility
+- Improvement: WordPress 5.9 compatibility
+- Fix: Image Filters missing closing anchor if mixed over options used across multiple filters
+- Fix: Carousel items on mobile devices conflicting with responsive breakpoints
+- Fix: Elements Creator mapping for margin and padding params
+
+Version 3.6.1 - 3 November, 2021
+-----------------------------------------------------------------------------------------
+New: Trigger slides of anything carousel from button, image or any element
+Fix: Undefined array key "Class" and "id" PHP warnings when any element is updated
+
+Version 3.6.0 - 19 October, 2021
+-----------------------------------------------------------------------------------------
+- New: Elegant Hero Section element to add beautiful hero sections to your website
+- New: Elegant Image Overlay Button element to display button over image with overlay
+- New: Lottie Content Box element to add interactive Lottie files as icons in content box
+- New: Elegant Animated Blob Shape Image element to add interactive blob shapes
+- New: An option to animate single blob shape image element
+- New: An option to set custom text as Image Hotspot pointer
+- Improvement: Updated the Blob generator logic to generate more shapes easily
+- Improvement: Element Creator now supports Avada Element Generator in text editor
+- Fix: Shortcodes in Element Creator will now render correctly
+- Fix: Advanced video height calculations causing the black border around video
+- Fix: Carousel variable width without infinite option causing issues with the slides
+- Fix: Elegant Creator mapping default value for range input type was causing conflict with saving
+- Fix: Link not working in elegant image filter overlay mode
+- Fix: Fancy button effect not working if column has background
+
+Version 3.5.3.2 - 19 August, 2021
+-----------------------------------------------------------------------------------------
+- Fix: Product registration and auto-update issue
+
+Version 3.5.3.1 - 14 August, 2021
+-----------------------------------------------------------------------------------------
+- Fix: Anything Carousel element combining all carousel items on a page
+
+Version 3.5.3 - 13 August, 2021
+-----------------------------------------------------------------------------------------
+- New: Option to set initial carousel height and avoid page jumps due to large content
+- New: Option to display anything carousel items in random order
+- Improvement: WordPress 5.8 compatibility
+- Fix: Issues with using symbols in image filters navigation
+- Fix: Conflict with background slider and magic quotes
+- Fix: Issue with background image slider if background gradient option is turned off
+- Fix: Modal not opening on Image Filters element on some cases
+- Fix: Styles not loading correctly on 404 and search results page if elements are used in the header/footer
+
+Version 3.5.2 - Jun 15, 2021
+-----------------------------------------------------------------------------------------
+- New: Option to disable Lottie animation globally
+- Fix: Lottie Animation being enabled for newly added columns as default
+
+Version 3.5.1 - Jun 11, 2021
+-----------------------------------------------------------------------------------------
+- New: Lottie animations as column background feature
+- Improvement: Ribbon element styling
+- Improvement: Avada 7.4 compatibility
+- Fix: Editor field is being added to the elements created with Elements Creator
+
+Version 3.5.0 - May 8, 2021
+-----------------------------------------------------------------------------------------
+- New: Star Rating element to help increase your organic Google search ratings
+- New: Text Path element to attach your text to 8+ predefined shapes with full design flexibility
+- Improvement: Display Instagram videos in Instagram Profile Card element
+- Improvement: JS compatibility with upcoming WP versions
+- Fix: PHP_Generic_BadPattern_7 Jetpack Issue
+
+Version 3.4.0 - April 27, 2021
+-----------------------------------------------------------------------------------------
+- New: Introducing Patcher tool - you'll get instant fixes delivered for small issues
+- New: An option to set the Instagram teaser box and profile card element profile image
+- New: An option to control the transition duration for background image slider
+- New: An option to change list box element title font size
+- New: Button size and span options for Footer button in modal element
+- Improvement: Element Creator caches get auto reset when new element is created
+- Fix: Instagram gallery display issue due to image lazyload in Avada
+- Fix: Instagram gallery showing wrong error if user's IP is restricted in their system
+- Fix: Instagram elements frontend editor templates to reflect the new changes
+- Fix: Image Filters element causing the images to stack on each other in Firefox
+- Fix: Image width and height issue in Google Lighthouse for Image Swap element
+
+Version 3.3.7 - March 18, 2021
+-----------------------------------------------------------------------------------------
+- New: Instagram API implementation to avoid issues with loading images
+- New: Advanced Video element can be used to display self hosted videos as well
+- Improvement: Alt tag on images in all elements
+- Improvement: WordPress 5.7 Compatibility
+
+Version 3.3.6.1 - February 16, 2021
+-----------------------------------------------------------------------------------------
+- Improvement: Hotspot pointer is now clickable if the link is specified
+- Improvement: Added alt attributes to promo box and hotspot elements
+- Updated: jQuery mobile script to the latest version
+
+Version 3.3.6 - January 17, 2021
+-----------------------------------------------------------------------------------------
+- New: Option to disable hover animation for Elegant Image element
+- New: Hover color options for icon block element title, description, and icon
+- Improvement: Icon block element can now display without the description text
+- Improvement: Fancy button styling with icon improved to have more clear visibility
+- Improvement: Performance factor - disabling not used elements will completely disable them
+- Fix: Element creator elements not rendering with Avada 7.2
+- Fix: Distortion image not filling the space correctly
+- Fix: Off-canvas element causing conflict with WPSSO Core plugin
+- Fix: Icomoon conflict with new icon uploads in backend
+- Fix: Envato API being called constantly due to invalid token
+- Fix: Aria control do not have valid values error in page speed tests for anything carousel
+- Fix: Allow border to be set to 0 in Elegant Carousel
+
+Version 3.3.5 - December 20, 2020
+-----------------------------------------------------------------------------------------
+- New: QRCode Generator element to add QRCode to your website
+- New: Accordion Slider element to showcase your images in a unique way
+- New: Increase your YouTube subscribers with the subscription button on Advanced Video element
+- Improvement: Compatibility with WordPress 5.6
+- Improvement: Compatibility with Avada 7.2
+- Improvement: Compatibility with PHP 8
+- Fix: Instagram gallery conflict with Off-canvas element open/close trigger
+- Fix: Instagram gallery throwing error if user IP is restricted by Instagram
+- Fix: Column background slider undefined index warning
+- Fix: Gradient heading with multiple lines not displaying in Safari
+- Fix: Distortion hover image getting stretched on responsive mode
+
+Version 3.3.4 - October 14, 2020
+-----------------------------------------------------------------------------------------
+- New: Particles Banner element to add awesome particle effects to your website
+- New: Option to display an image in another div on fancy button click
+- Fix: Blob shape empty background colors conflicting with default values being used in the element
+- Fix: Instagram image gallery throwing error "Instagram did not return a 200" on some hosts
+- Fix: Anything carousel causing width conflict on Firefox mobile browser
+- Fix: Element Creator causing conflict with inserting variables into templates.
+- Fix: Element styling not loading in frontend editor if Elegant Element settings were changed
+
+Version 3.3.3 - September 3, 2020
+-----------------------------------------------------------------------------------------
+- New: Option to control Container and column background slider transition delay
+- New: Element Creator is now fully compatible with dynamic content fields
+- New: Custom fonts in theme options are now available in Elegant Typography option as well
+- Fix: Anything Carousel jump to last slide on mobile issue
+- Fix: Horizontal Scrolling Image slider does not respect the number of visible images setting
+
+Version 3.3.2.3 - August 12, 2020
+-----------------------------------------------------------------------------------------
+- Fix: Compatibility with WordPress 5.5
+- Fix: Avada 7.0.1 Live Editing JS conflict
+- Fix: Image Compare element styling when images are smaller than the column width
+
+Version 3.3.2.2 - July 25, 2020
+-----------------------------------------------------------------------------------------
+- Fix: Envato API rate limit causing the update check to fail
+- Fix: Image Filter element navigation sorting conflict with multiple word navigation item
+
+Version 3.3.2.1 - July 24, 2020
+-----------------------------------------------------------------------------------------
+- Improvement: Auto register the product if purchased with the same account as Avada is purchased
+and if Avada is registered before the Elegant Elements is installed
+- Improvement: Plugin registration and auto-update check failing due to refresh token expired.
+Added a notice on the registration form so you can re-generate the token to receive updates
+
+Version 3.3.2 - July 23, 2020
+-----------------------------------------------------------------------------------------
+- Improvement: Avada 7.0 compatibility
+- Improvement: Container background slider images can be easily changed and re-ordered
+- Fixed: Anything Carousel issues on mobile and conflict with magic quotes
+
+Version 3.3.1 - July 21, 2020
+-----------------------------------------------------------------------------------------
+New: Option to display navigation in alphabetical order for image filter element
+New: Option to turn on responsive carousel in horizontal scrolling image element
+New: Option to set modal title alignment
+Improvement: Elegant Image element mouse pointer when link or modal is used
+Fixed: Outline for images in horizontal scrolling images on click
+Fixed: Elegant Carousel variable width issue on mobile devices
+Fixed: Elegant modal element icon shortcode generator icon display and edit conflict
+
+Version 3.3.0 - July 2nd, 2020
+-----------------------------------------------------------------------------------------
+- New: Slicebox 3D Image Slider element ( BETA ) to add beautiful 3d image slider to your website
+- New: Image Swap element to display a different image on hover
+- New: Horizontal Scrolling Images element to showcase your images in unique slider
+- New: Elegant Image element with an image as shadow and multiple trigger options
+- New: 11 New styles for Animated Dividers
+- New: Top background color option for Animated Divider will allow you to put dividers at the top
+- New: Anything Carousel got a new option for variable width and display slides partially
+- Fixed: Events Calendar single event template conflicts while logged-in
+- Fixed: Videos missing fullscreen play option
+
+Version 3.2.1 - June 17, 2020
+-----------------------------------------------------------------------------------------
+- Improvement: Added an option to disable the column and container background slider options
+- Fixed: Conflict with 100% scrolling containers and the column background slider
+
+Version 3.2.0 - June 15, 2020
+-----------------------------------------------------------------------------------------
+- New: Feature to add stunning image sliders to your containers and columns
+- New: Off-Canvas Content Element to add beautiful flyout panels to your website
+- New: Added Dynamic Data option to elements where required
+- New: Added link option to Hotspot element tooltip
+- New: Added link option to Blob Shape Image element
+- New: Added link target option to elements
+- Improvement: Google fonts in typography are ordered in alphabetical order
+
+Version 3.1.0 - May 12, 2020
+-----------------------------------------------------------------------------------------
+- New: Masonry layout for Instagram Gallery
+- Improvement: Added an option to set the background color for video list video container
+- Improvement: Video in video list container will auto adjust when the browser is resized
+- Improvement: Added an option to display PDF in browser native embedding to avoid blank screen
+- Fix: Instagram gallery lightbox showing black screen for all images
+- Fix: Instagram gallery lightbox does not work when fallback method is used
+- Fix: Corrected the Distortion image element stylesheet name
+- Fix: Animated Dividers acting weirdly when browser is resized or device layout changed
+
+Version 3.0 - May 4, 2020
+-----------------------------------------------------------------------------------------
+- New: Custom Element Creator to allow you create unlimited elements with HTML, CSS and JS
+- New: Border Animated Button element creator template [ Need to be imported ]
+- New: Gradient Button element creator template [ Need to be imported ]
+- New: Icon Button element creator template [ Need to be imported ]
+- New: Image Overlay Icon Box element creator template [ Need to be imported ]
+- New: Material Icon Card element creator template [ Need to be imported ]
+- New: Half Circle Progress element creator template [ Need to be imported ]
+- New: Click to Call Icon element creator template [ Need to be imported ]
+- New: Click to SMS Icon element creator template [ Need to be imported ]
+- New: Glowing Button element creator template [ Need to be imported ]
+- Fix: Lottie Animation Preview does not for for the first time in live editor
+
+Version 2.5 - April 23, 2020
+-----------------------------------------------------------------------------------------
+- New: Blob Shape Image element will transform the way you add images to your website
+- New: Distortion Hover Image element to add transition between two images
+- New: Lottie Animated Image element will allow you to add eye-catching animations to your site
+- New: Instagram Teaser Box element to show your profile with latest 4 images and follower counts
+- New: Instagram Profile Card element to display your instagram profile with a unique card fashion
+
+Version 2.4 - April 1, 2020
+-----------------------------------------------------------------------------------------
+- New: WhatsApp Click to Chat element to allow your visitors to chat with you on WhatsApp
+- New: Ribbons element will allow you to highlight the column for its content easily
+- New: Animated Section Dividers element to convert static section dividers into animated objects
+- New: Big Caps element to give you ability to display first letter large in sentence
+- Fix: Advanced video image width overflow if set to larger than the column width
+- Fix: Fancy Button typography and the color options doesn't work as expected
+- Fix: Row and Column gradient css being added even the colors are not set
+- Fix: Elegant Cards live editor preview for box-shadow, border-radius and the image hover option
+- Improvement: WordPress 5.4 compatibility
+
+Version 2.3 - March 19, 2020
+-----------------------------------------------------------------------------------------
+- New: Video List element to showcase your videos in a unique list format
+- New: Retina Image element to help you serve better images for non-retina and retina devices
+- New: Advanced Video element with an image placeholder and an icon to your videos
+- New: Business Hours element to show your business opening or special hours
+- New: Document Viewer element to add PDF, Excel, MS Word, and PPT documents to your website
+- New: Cube Box element to add unique content boxes with cube effect
+- Improvement: Option to disable image zoom effect on hover in Elegant Cards element
+- Improvement: Option to add nice shadow to Elegant Cards element
+- Improvement: Option to customize border radius in Elegant Cards element
+- Fix: Carousel element custom class and ID not being applied
+- Fix: Material buttons color not applying when default button has gradient
+
+
+Version 2.2.3 - February 19, 2020
+-----------------------------------------------------------------------------------------
+- Fix: Checkbox and date picker fields saving issue for WP Job Manager
+
+Version 2.2.2 - February 12, 2020
+-----------------------------------------------------------------------------------------
+- Fix: Avada 6.2 and Fusion Builder 2.2.0 compatibility
+
+Version 2.2.1 - January 9, 2020
+-----------------------------------------------------------------------------------------
+- Fix: Column gradient causing conflict with forms if no gradient style is used
+
+
+Version 2.2 - January 6, 2020
+-----------------------------------------------------------------------------------------
+- New: Template library with over 100+ unique and beautifully designed templates to get you started
+- Improvement: New option added to Typewriter element to control the delete text delay
+- Improvement: Special Heading element padding can now easily changed from within the frontend builder
+- Improvement: Changed default height for Special Heading element to auto
+- Improvement: Gradient Heading element max font size limit increased to 200
+- Improvement: Column gradient backgrounds will be applied to ::before pseudo element to show background image as well
+- Fix: Button border radius not applying when material style is used
+
+Version 2.1.0 - December 1, 2019
+-----------------------------------------------------------------------------------------
+- New: FAQ Rich Snippets element to help boost your search engine visibility with FAQs
+- New: Content toggle element, best to show price toggle
+- New: Image Separator element to add an image as column and container separator
+- New: Dual Style Heading element to add unique heading with two colored styles
+- Improvement: Compatibility with Avada 6.1.x and Fusion Builder 2.1.x
+- Improvement: Compatibility with latest WordPress 5.3
+- Fix: Elegant Fancy Button element style not showing fullwidth on hover
+- Fix: Elegant Fancy Button border radius not working in latest Fusion Builder
+- Fix: Instagram Gallery fallback method throwing the output at the top of page
+- Fix: Dual Button element shortcode not editable in backend
+
+Version 2.0 - October 1, 2019
+-----------------------------------------------------------------------------------------
+New: Avada 6.x and Fusion Builder Frontend Editor compatibility - All elements can now be easily customized with Frontend Editor
+New: 6 Beautifully Crafted Full Page Demos - Elegant Elements now comes with full page website demos to get you started
+New: Instagram Gallery element to showcase your instagram galleries with username or #tags
+New: Skew Headings element to add beautiful headings to attract your visitors
+New: Image Hotspot element to show the hidden secrets in images to your visitors
+New: Image Mask Headings element to add beautiful images as background to your headings
+New: Icon Block element gives you ability to add beautiful content blocks with icon as background
+New: Option to show/hide image title along with image caption in Image Filters
+New: Option to set image orientation for each image in Image Filters element
+New: Option to set alignment of Typewriter element
+New: Option to set Typewriter text to loop in infinite mode
+New: Option to set Alignment for Fancy Button element
+New: Option to set Border for Carousel element
+Improvement: Testimonials styling adjustment to make sure it works fine with variable height of content
+Improvement: Make use of offloading Google Fonts for GDPR complaint
+Improvement: Expanding Sections will open and close after clicking on entire heading area
+Improvement: Column and Container gradient can now easily customized from within Frontend Editor
+Fix: Material design colors not available in frontend editor for button element
+Fix: Template library not available in frontend editor
+Fix: Image Filters don't open lightbox if title position is on hover
+Fix: Carousel element crashing on mobile and incorrect slide index issue
+Fix: Arrows are partially hidden on some iOs devices in Carousel element
+Fix: Custom fonts variation throwing 404 when used with Elegant Elements theme options
+Fix: Elegant List Box element styling compatibility with IE11
+Fix: Image meta undefined error on external image urls in Image Filters element
+
+Version 1.3.0 - November 8, 2018
+-----------------------------------------------------------------------------------------
+New Feature: Image Filter Element has a new option to open images in lightbox
+New Feature: New option to enable link to image and the complete card for Card element
+Improvement: Anything Carousel element has global options to set number of slides to show on responsive breakpoints
+Improvement: Google Fonts loader works fine with Elegant Elements
+Improvement: Add RTL compatibility for Anything Carousel
+Improvement: Images in image filer element now uses alt tags
+Fix: Font Awesome icons not working in Elegant Carousel
+Fix: Avada compatibility with Elegant Cards element with latest Avada
+Fix: Google Fonts are working correctly again
+
+Version 1.2.1 - October 1, 2018
+-----------------------------------------------------------------------------------------
+- Fixes: Custom fonts being enqueued as Google Fonts when selected through Elegant Elements typography
+- Fixes: System fonts being enqueued as Google Fonts when selected through Elegant Elements typography
+- Fixes: Compatibility with Fusion Builder comes with Avada 5.7
+
+Version 1.2.0 - June 12, 2018
+-----------------------------------------------------------------------------------------
+
+- New Element: List box - Title your old styled lists and make them look great
+- New Feature: Alignment options for Profile Panel
+- New Feature: Container background image is now visible with the transparent gradient background colors
+- Improvement: Added options in Avada global Theme Options to select the default typography for all elements
+- Improvement: Avada 5.5.x and Font-Awesome 5 compatibility
+- Improvement: Added align options to elegant promo boxes content
+- Fixed: Elegant Elements conflicting with Avada update
+- Fixed: PHP Warnings if Fusion Builder is deactivated
+
+Version 1.1.0 - February 26, 2018
+-----------------------------------------------------------------------------------------
+
+- New Element: Image Compare - Show your before and after images
+- New Element: Expanding Section - Display your important content in perfect way
+- New Element: Profile Panel - Display your team or client profiles with nice layout
+- New Element: Gradient Title - Add gradient colors to headings in your site
+- New Element: Image Filter - Display your portfolio or images with sortable filters
+- New Feature: Pre-defined material design color schemes for button element
+- New Feature: Gradient Background feature is now available for Columns
+- New Feature: Pre-built templates to get started. Now boost your website design process
+- Improvement: Added product registration to allow shiny updates for future version of the plugin
+- Improvement: Scripts are now enqueued using dynamic js to boost loading time
+- Improvement: Added admin setting to control style enqueue depend on your requirement
+- Improvement: Added admin setting to enable / disable container and column gradient backgrounds
+- Improvement: Admin notice will be displayed if Fusion Builder is deactivated to avoid conflicts
+- Improvement: Default separator text color changed for dual button
+- Fixed: Load plugin textdomain was missing
+- Fixed: Custom class setting for container not working due to the container gradient background
+- Fixed: Force apply gradient option doesn't respect setting
+- Fixed: Button Shortcode Generator isn't working with Fusion Builder Element Generator if used in child element editor
+
+
+Version 1.0 - December 21, 2017
+-----------------------------------------------------------------------------------------
+
+Initial Release
